@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NinoL4r
-- 👀 I’m interested in autopilot
+- 👋 Hi, I’m Nino Liu
+- 👀 I’m interested in Autopilot
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ninoliu.us@gmail.com
+- 💞️ I’m looking to collaborate on Vision-based object detection and tracking
+- 📫 How to reach me? ninoliu.us@gmail.com
 
 <!---
 NinoL4r/NinoL4r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
