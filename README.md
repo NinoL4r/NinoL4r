@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nino Liu
+- 👋 Hi there
 - 👀 I’m interested in Autopilot
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Vision-based object detection and tracking
