@@ -1,9 +1,9 @@
 ### Yo, I'm Nino Liu 👋
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/NinoL4r)
-<a href="https://open.spotify.com/user/gknvrt4zs0dk6cxzcwiwc0foi">
+<!-- <a href="https://open.spotify.com/user/gknvrt4zs0dk6cxzcwiwc0foi">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 
 - 🍻 Graduated from [PU](https://purdue.edu/), _MS in Computer Science_
 - ⚡ C++ / Python.
